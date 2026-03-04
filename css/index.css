@@ -1,0 +1,4 @@
+/* Extracted from html/code.html */
+body { font-family: 'Inter', sans-serif; scroll-behavior: smooth; }
+.glass-effect { backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px); }
+.hero-gradient { background: radial-gradient(circle at 50% 50%, rgba(20, 184, 166, 0.05) 0%, rgba(255, 255, 255, 0) 70%); }
